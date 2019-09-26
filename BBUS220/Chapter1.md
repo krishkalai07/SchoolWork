@@ -30,8 +30,8 @@ Summary: A person (or a firm or a society) is more likely to take an action if i
 
 Term      | Definition 
 ----------| ----------
-average benefit | the total benefit of undertaking n units of an activity divided by _n_
-average cost | the total cost of undertaking n units of an activity divided by _n_
+average benefit | the total benefit of undertaking _n_ units of an activity divided by _n_
+average cost | the total cost of undertaking _n_ units of an activity divided by _n_
 economic surplus | the benefit of taking an action minus its cost
 economics | the study of how people make choices under conditions of scarcity and of the results of those choices for society
 macroeconomics | the study of the performance of national economies and the policies that governments use to try to improve that perfperformance
