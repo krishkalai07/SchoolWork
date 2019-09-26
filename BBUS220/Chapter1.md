@@ -10,11 +10,7 @@ Summary: Although we have boundless needs and wants, the resources avialable to 
 
 Summary: An individual (or a firm or a society) should take an action if, and only if, the extra (marginal) benefits from taking the action are at least as great as the extra (marginal) costs.
 
-# Incentive Prinicple
-
-Summary: A person (or a firm or a society) is more likely to take an action if its benefits rises, and less likely to take it if its cost risies.
-
-# Pitfalls
+## Pitfalls
 
 1. Measuring costs or benefits proportionally.
    * Absolute  dollar amounts, not proportions, should be employed to measure costs and benefits
@@ -25,6 +21,10 @@ Summary: A person (or a firm or a society) is more likely to take an action if i
    * Important to ignore sunk costs - costs that cannot be avoided even if no/alternate action is taken.
    * The only costs that should influence a decision are those that can be avoided by not taking an action. The only benefits that should infuence a decision are those that would now occur unless the action were taken.
    * Example: spent $100 on a concert ticket - the money spent shouldn't influence whether or to go to the concert.
+
+# Incentive Prinicple
+
+Summary: A person (or a firm or a society) is more likely to take an action if its benefits rises, and less likely to take it if its cost risies.
 
 # Key Terms
 
