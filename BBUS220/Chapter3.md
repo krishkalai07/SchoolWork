@@ -15,3 +15,11 @@ Issues have been decided in one of two ways:
 2. Production and distribution decisions are left to indiviudals interacting in private markets.
 
 **Markets have replaced centralized control because they tend to assign prodicition tasks and consumption benefits much more effectively.** The majority believes that markets are the most effective means for allocating society's scarse resources.
+
+# Buyers and Sellers
+
+# Key Terms
+
+Terms        | Definition
+-------------|-----------
+
