@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-- [Computer Architecture/Organization](#Computer-Architecture/Organization)
+- [Computer Architecture and Organization](#Computer-Architecture-and-Organization)
 - [Structure and Function](#Structure-and-Function)
 - [Function](#Function)
 - [CPU](#CPU)
@@ -15,7 +15,7 @@
 - [Microprocessors](#Microprocessors)
 - [ARM](#ARM)
 
-# Computer Architecture/Organization
+# Computer Architecture and Organization
 
 Talks about hardware. Transparant to programmer
 
