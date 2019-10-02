@@ -28,8 +28,8 @@ Slide notes
   - Price elasticity of demand is **always** negative
 - Example: Demand for Pizza
 
-    | Old | New | % Change
----|---|---|---|
+\* | Old | New | % Change
+--- | --- | --- | --- 
 Price | $1.00 | $0.97 | 3%
 Quantity | 400 | 404 | -1%
 
