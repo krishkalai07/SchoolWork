@@ -104,7 +104,12 @@ COP | ;
 
 ## History of Computers - First Generation: Vacuum Tubes
 
+###CPU
+
+Memory Buffer Register - copies memory
+
 # Registers
+
 
 ## History of Computers - Second Generation: Transistors
 
@@ -115,6 +120,16 @@ COP | ;
 ##  History of Computers - Third Generation: Integrated Circuits
 
 # Integrated Circuits
+
+- Data storage – provided by memory cells
+- Data processing – provided by gates
+- Data movement – the paths among components are used to move data from memory to memory and from memory through gates to memory
+- Control – the paths among components can carry control signals
+- A computer consists of gates, memory cells, and interconnections among these elements
+- The gates and memory cells are constructed of simple digital electronic components
+- Exploits the fact that such components as transistors, resistors, and conductors can be fabricated from a semiconductor such as silicon
+- Many transistors can be produced at the same time on a single wafer of silicon
+- Transistors can be connected with a processor metallization to form circuits
 
 # Microprocessors
 
