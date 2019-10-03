@@ -86,6 +86,14 @@ unitary
 relativly elastic | -1 > e > inf | price is more importnat than qd | apple
 perfecly elastic | e = inf | price is everything | $10 bill
 
+- Terminaolotu: total revenue = total expenditures
+  - Calculate as P x Q
+- Graphing idea:
+  - P = 2 and Q = 4
+  - total
+
+- Total revenue decreases when price increases in the inelastic portion of the demand curve
+
 ## Price changes and Total Revenue changes
 
 ## Elasticity, Price Change, and Total Revenue
