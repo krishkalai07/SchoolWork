@@ -35,8 +35,6 @@ Quantity | 400 | 404 | -1%
 
 ε = 3% / -1% = -3 -> |-3| > 1, therefore elastic
 
-Term | Definition | 
-
 ### Elastic Demand
 - Quantity demanded is responsive to price
 - %ΔQd > %ΔP
@@ -51,23 +49,42 @@ Term | Definition |
 - Price and quantity change by the same percentage
 - ε == 1
 
+## Price Elasticity: Graphical View 
+
+E = P/Q * 1/slope
+
+8/3 * 1/4 = 2/3 * 1 = 2/3 = 0.66 < 1, inelastic
+
 ## Price Elasiticy Pattern
 - Price elasticity changes systematically as price goes down
   - Slope is the same for the demand curve
   - P/Q decreases as price goes down and quantity goes up
 - At high P and low Q, 
-  - Demand is
+  - Demand is elastic
 - At the midpoint
-  - Demand is
+  - Demand is unit elastic
 - At low P and high Q, 
-  - Demand is
+  - Demand is inelastic
 - **Two special cases**
   - Perfectly inelastic demand (Ed = 0)
+    - Vertical demand line
+    - Regardless of price, same quantity (non-responsive)
   - Perfectly elastic demand (Ed = -inf, undefined)
+    - Horizontal demand line
+    - Regardless of quantity, same price (highly responsive)
 
 ## Price Elasticity and Slope
+- At the common point,  demand is less price elastic for the steeper curve
 
 ## Elastic and Total Revenue
+
+Elasicity | coeficcent | interpretation | example
+-------- | --------- | ---------- | --------
+Perfectly elastic | = 0 | price doesn't matter | saving a pet
+relatively elastic | 0 > e > -1 | price is less important than qd | electricity
+unitary
+relativly elastic | -1 > e > inf | price is more importnat than qd | apple
+perfecly elastic | e = inf | price is everything | $10 bill
 
 ## Price changes and Total Revenue changes
 
