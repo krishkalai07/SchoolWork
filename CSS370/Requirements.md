@@ -35,3 +35,9 @@ Sample requirements for projects
 - The app must find the hands position and converts it to a best guess grammar
 - The app must be able to distinguish "dialect".
 - The app must speak whatever text was generated.
+
+# Fridge Buddy
+
+## Major components
+
+## Requirements
