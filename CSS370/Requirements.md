@@ -15,6 +15,8 @@ Sample requirements for projects
 - App must show info of target location
 - App must dynamically generate a direction set using the shortest path
 - App must give a visual representation of directions
+  - Directions may be given as a standard map view
+  - Directions may be given as an augmented reality view
 - App must speak directions at user's desires
 - App must have text based directions at user's desires
 
