@@ -97,7 +97,31 @@ perfecly elastic | e = inf | price is everything | $10 bill
 ## Price changes and Total Revenue changes
 
 ## Elasticity, Price Change, and Total Revenue
+If Demand is | a price increase will
+--------- | --------
+Elastic | ↓Q ↓TR
+Inelastic ↓Q ↑TR
+
+If Demand is | a price decerase will
+--------- | --------
+Elastic | ↑Q ↑TR
+Inelastic ↑Q ↓TR
 
 ## Determinants of Price Elasticity of Demand
+- Necessity (need or want)
+  - Higher necessity, lower elasticity
+  - HIV drugs vs. sports drugs
+- Subsitution options
+  - More options, more elastic
+  - Water vs elasticity
+- Budget share
+  - Large share, more elastic
+  - new car vs salt
+- Time
+  - Long time to adjust, more elastic
+  - Gasoline
 
 ## Cross-Price Elasticity of Demand
+- Subsitutes and complements affect demand
+- Cross-proice elasticity of demand
+- sign of cross-price elasticity shows relationship between the goals
