@@ -51,7 +51,7 @@ Quantity | 400 | 404 | -1%
 
 ## Price Elasticity: Graphical View 
 
-E = P/Q * 1/slope
+ε = P/Q * 1/slope
 
 8/3 * 1/4 = 2/3 * 1 = 2/3 = 0.66 < 1, inelastic
 
@@ -124,4 +124,7 @@ Inelastic ↑Q ↓TR
 ## Cross-Price Elasticity of Demand
 - Subsitutes and complements affect demand
 - Cross-proice elasticity of demand
+  - ε = %ΔQa / %ΔQd
 - sign of cross-price elasticity shows relationship between the goals
+  - Noramal ε < 0
+  - Inferior ε > 0

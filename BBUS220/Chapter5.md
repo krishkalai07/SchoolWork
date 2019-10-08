@@ -1,5 +1,7 @@
 Slide notes
 
+**Midterm Chapter 1 3 4 5**
+
 # Demand
 
 1. Demand and Utility
@@ -9,19 +11,38 @@ Slide notes
 
 # Origins of Demand
 
+
 ## Needs versus Wants
 - Needs are goods required for subsistence
+  - Water, food, shelter, clothing
 - Beyond subsistence, behavior is driven by wants
+  - Steak, hamburger
 - Wants and Demand
+  - Unlimited wants
+  - Limited resources
+  - Prioritize wants
 
 ## Modeling Customer Satisfaction
 - Utility
   - A measure of relative levels of satisfaction consumers enjoy from consumption of goods and services
   - Sometimes numerically quantified by a unit of happiness called a “util”
 - Total utility
+  - Overall amount of happeiness from comsumption
 - Marginal utility
+  - Additional utility gained from consuming one more unit of a good or service
 - Law of Diminishing Marginal Utility
   - Genrally marginal utility
+
+- Man vs. Food
+  - Total utility: total happiness from eating hamburger
+  - Marginal utility: differnece of each bite
+
+Cones vs hour | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+Total utility | 0 | 50 | 90 | 120 | 140 | 150 | 140
+Marginal utility | - | 50 | 40 | 30 | 20 | 10 | -10
+
+- **Law of diminishing marginal utility**
+  - Gnerally marginal utility declines
 
 ## Diamond-Water Paradox
 - Paradox:
