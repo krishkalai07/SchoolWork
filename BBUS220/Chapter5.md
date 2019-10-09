@@ -48,15 +48,18 @@ Marginal utility | - | 50 | 40 | 30 | 20 | 10 | -10
 - Paradox:
   - Water is essential to life, yet cheap
   - Diamonds are (almost) pragmatically useless, yet expensive
-  - Do you get a higher marginal utility from an additional diamond or from an additional glass of water?
-  - Do enjoy more total utility from diamond consumption than from water consumption?
+  - Do you get a higher marginal utility from an additional diamond or from an additional glass of water? water
+  - Do enjoy more total utility from diamond consumption than from water consumption? water
 
 # Budget Allocation - Optimizing consumption
 - No Money Left On the Table Principle
-  - Assume a fixed Budget
+  - Assume a fixed budget
   - Decide how much of each good to buy
   - Maximize utility when the marginal utility per dollar spent is the same for all goods
 - **Rational Spending Rule**
+  - MU\_A / P\_A == MU\_B / P\_B
+  - (movie) MU / A < (concert) MU/A
+  - Go to the concert more until they are equal
 
 ## Subsitution Effect
 - When the price of a good goes up, substitutes for that good are relatively more attractive. For example: If the price of vanilla ice cream goes up:
