@@ -30,7 +30,7 @@ Should collect cans for 3 hours, then wash dishes
 Cans is now 4c per can
 
 Hours per day | tital number of container | additional cans | Revenue from addional cans
---- | --- | ---
+--- | --- | --- | ---
 0 | 0 | - | -
 1 | 600 | 600 | $24.00
 2 | 2000 | 400 | $16.00
