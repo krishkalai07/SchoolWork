@@ -17,7 +17,7 @@
 ## Recycling services
 
 Hours per day | tital number of container | additional cans | Revenue from addional cans
---- | --- | ---
+--- | --- | --- | ---
 0 | 0 | - | -
 1 | 600 | 600 | $12.00
 2 | 2000 | 400 | $8.00
