@@ -61,8 +61,10 @@ Marginal utility | - | 50 | 40 | 30 | 20 | 10 | -10
   - (movie) MU / A < (concert) MU/A
   - Go to the concert more until they are equal
 
+
 ## Subsitution Effect
 - When the price of a good goes up, substitutes for that good are relatively more attractive. For example: If the price of vanilla ice cream goes up:
+ - some buyers will buy less vanilla and more chocolate
 
 ## Income effect
 - Changes in price affect the buyers' purchasing power. For example: If the price of vanilla ice cream goes down:
@@ -72,10 +74,19 @@ Marginal utility | - | 50 | 40 | 30 | 20 | 10 | -10
 - The market demand is the horizontal sum of individual demand curves
 
 # Consumer Surplus
+- Graph of Marginal utility vs. Quantity demanded
 - Consumer's surplus is the difference between the buyer's reservation price and the market price
 - Market price is $6 for all sales
-- How many units sold?
+- How many units sold? 6 units
 - Consumer surplus
-  - From the first sale 
-  - Selling the second unit
-- Total consumer surplus is 
+  - From the first sale $5
+  - Selling the second unit $4
+- Total consumer surplus is $15
+
+## Consumer Surplus of milk
+
+- Price is $2 and quanity is 4000 gallons per day
+- CS is the area between
+  - Demand, Market price, Market Quanitty
+
+- The area is $2000 
