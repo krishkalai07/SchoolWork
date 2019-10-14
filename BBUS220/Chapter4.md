@@ -15,7 +15,6 @@ Slide notes
   - gives us the direction
 - Price elasticity of demand
   - measures the amount of change
-  - gives us the 
 - Demand is *elastic* ("sensitive" or "responsive") if following a price change
   - Q\_D changes significantly 
 - Demand is *inelastic* (“insensitive” or “unresponsive”) if following a price change
@@ -25,7 +24,7 @@ Slide notes
   - ε = %ΔQd/%ΔP = ΔQd/Qd / ΔP/P
   - Qd and P are old quantity demanded and price
   - For small percent changes in prices (is apporximation)
-  - Price elasticity of demand is **always** negative
+  - Price elasticity of demand is **always** negative, but always consider absolute value
 - Example: Demand for Pizza
 
 \* | Old | New | % Change
@@ -86,7 +85,7 @@ unitary
 relativly elastic | -1 > e > inf | price is more importnat than qd | apple
 perfecly elastic | e = inf | price is everything | $10 bill
 
-- Terminaolotu: total revenue = total expenditures
+- Terminaology: total revenue = total expenditures
   - Calculate as P x Q
 - Graphing idea:
   - P = 2 and Q = 4
@@ -123,7 +122,7 @@ Inelastic ↑Q ↓TR
 
 ## Cross-Price Elasticity of Demand
 - Subsitutes and complements affect demand
-- Cross-proice elasticity of demand
+- Cross-price elasticity of demand
   - ε = %ΔQa / %ΔQd
 - sign of cross-price elasticity shows relationship between the goals
   - Noramal ε < 0
