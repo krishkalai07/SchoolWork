@@ -58,22 +58,63 @@ Human recycles more if
 ## Do we have a perfectly competitive market
 
 Example | Close to a compettive market because | differnet because
---- | --- 
+--- | --- | ---
 Farmers market | 1,3 | 2 (could be same) 
 
 ## Perfectly competitive Firm' Demand
 
 if firms are price takers, they must choose quanitities
 
-## Business Decision-Making
+# Business Decision-Making
+
+- Consider a fast food restraunt
+- Lots of information needed. Lots of decions regarding inputs
+  - Labor
+    - Workers
+    - Shifts
+    - Wages
+  - Capital
+    - Fryers
+    - Milkshake machines
+    - Cash registers
+  - Other inputs
+    - Food supplies
+    - Napkins
+    - Tables
 
 ## Production - definitions
+Term | Definition
+--- | ---
+Factor of production | an input used in a good or service (workerk)
+Production | converts inputs to outputs by using technology
+Short run | period of time when at least one factor of production is fixed
+Long run | period of time where all inputs are variable
 
 ## Diminishing Marginal Product of Labor 
+- Run a fast food restraunt. increases in input evenctually cause output to input at a slower rate
+  - Laborer 1: total output 5
+  - Laborer 2: total output 15, increase by 10
+  - Laborer 3: total output 30, increase by 15
+  - Laborer 4: total output 42, increase by 12
+  - Laborer 5: total output 52, increase by 10
+
+- Why
+  - workers per machine
+  - information flows
 
 ## Illustration of Diminishing MPL
+- Ex: garbage collection
+  - Fixed
+    - Capital
+    - Garbage truck
+  - Variable
+    - Labor
+    - Workers
+  - Output
+    - Trash can is picked up
 
 ## Cost Concepts – Short run
+
 
 ## An example of Production and Costs in the Short Run
 
