@@ -5,7 +5,6 @@
 ## Income elasticity of demand
 - inferior good: ε < 0
 - normal good: ε > 0
-- luxury good(?): ε > 1
 
 ## Definitions
 - Need: a good required for subsitence (food, water, shelter, clothing)
