@@ -1,22 +1,21 @@
 # Perfectly Competitive Supply
-
 1.Opportunity cost & the supply curve
 2.Perfectly competitive markets
 3.Production and cost concepts
 4.Profit-maximizing output and profit in the short run5.Long run equilibrium in a competitive market
 6.Producer surplus
 
-# Opportinity Cost
+# Opportunity Cost
 - Human as 2 job opportunities
   - Wash dishes for $6 for hour
-  - Recuclying aluminum cans in teh alternative: 2c per can
+  - Recycling aluminum cans in the alternative: 2c per can
 
 - opportunity cost: $6
-  - Recycle as long as he gmakes $6 per hour
+  - Recycle as long as he makes $6 per hour
 
 ## Recycling services
 
-Hours per day | tital number of container | additional cans | Revenue from addional cans
+Hours per day | total number of container | additional cans | Revenue from additional cans
 --- | --- | --- | ---
 0 | 0 | - | -
 1 | 600 | 600 | $12.00
@@ -29,7 +28,7 @@ Should collect cans for 3 hours, then wash dishes
 
 Cans is now 4c per can
 
-Hours per day | tital number of container | additional cans | Revenue from addional cans
+Hours per day | total number of container | additional cans | Revenue from additional cans
 --- | --- | --- | ---
 0 | 0 | - | -
 1 | 600 | 600 | $24.00
@@ -48,8 +47,8 @@ Human recycles more if
 - can deposit increase
 - dish-washing wage decreases
 
-## Perfectly Compettive Market
-- Main characteristic of a perfecrtly copmetitive market
+## Perfectly Competitive Market
+- Main characteristic of a perfectly competitive market
   1. Many buyers and sellers
   2. Trade identical products
   3. Each buyer and seller is a price taker
@@ -57,18 +56,18 @@ Human recycles more if
 
 ## Do we have a perfectly competitive market
 
-Example | Close to a compettive market because | differnet because
+Example | Close to a competitive market because | different because
 --- | --- | ---
 Farmers market | 1,3 | 2 (could be same) 
 
 ## Perfectly competitive Firm' Demand
 
-if firms are price takers, they must choose quanitities
+if firms are price takers, they must choose quantities
 
 # Business Decision-Making
 
-- Consider a fast food restraunt
-- Lots of information needed. Lots of decions regarding inputs
+- Consider a fast food restaurant
+- Lots of information needed. Lots of decisions regarding inputs
   - Labor
     - Workers
     - Shifts
@@ -85,13 +84,13 @@ if firms are price takers, they must choose quanitities
 ## Production - definitions
 Term | Definition
 --- | ---
-Factor of production | an input used in a good or service (workerk)
+Factor of production | an input used in a good or service (workers)
 Production | converts inputs to outputs by using technology
 Short run | period of time when at least one factor of production is fixed
 Long run | period of time where all inputs are variable
 
 ## Diminishing Marginal Product of Labor 
-- Run a fast food restraunt. increases in input evenctually cause output to input at a slower rate
+- Run a fast food restaurant. increases in input eventually cause output to input at a slower rate
   - Laborer 1: total output 5
   - Laborer 2: total output 15, increase by 10
   - Laborer 3: total output 30, increase by 15
