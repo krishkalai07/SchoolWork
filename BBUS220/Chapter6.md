@@ -1,9 +1,9 @@
 # Perfectly Competitive Supply
-1.Opportunity cost & the supply curve
-2.Perfectly competitive markets
-3.Production and cost concepts
-4.Profit-maximizing output and profit in the short run5.Long run equilibrium in a competitive market
-6.Producer surplus
+1. Opportunity cost & the supply curve
+2. Perfectly competitive markets
+3. Production and cost concepts
+4. Profit-maximizing output and profit in the short run5.Long run equilibrium in a competitive market
+6. Producer surplus
 
 # Opportunity Cost
 - Human as 2 job opportunities
