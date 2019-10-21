@@ -114,9 +114,28 @@ Long run | period of time where all inputs are variable
 
 ## Cost Concepts – Short run
 Concept | definition
-Fixed cost | <ul><li>The sum of all payments for fixed input</li><li>FC = </li></ul>
-Variable cost | <ul><li>The sum of all payments for fixed input</li><li>FC = </li></ul>
-Average cost | Cost divided by quantity
+Fixed cost (FC) | <ul><li>The sum of all payments for fixed input</li><li>FC = </li></ul>
+Variable cost (VC) | <ul><li>The sum of all payments for fixed input</li><li>FC = </li></ul>
+Total cost (TC) | 
+Marginal cost (MC) | 
+Average cost (AVC AFC ATC/AC) | Fixed/Variable/Total/Marginal Cost divided by quantity
+
+Q = 10 -> TC = 150
+
+Q = 12 -> TC = 170 (MC = (170-150)/2 = 20/2 = 10)
+
+| K = 1 ; capital (C reserved for costs)
+
+| R = $100 ; rent
+
+-> FC = KR = 1 * $100 = $100
+
+| L = 5 ; laborers
+
+| W = 10 ; wages
+
+-> VC = LW = 5 * 10 = $50
+
 
 ## An example of Production and Costs in the Short Run
 - Our model has:
