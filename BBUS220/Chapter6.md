@@ -135,37 +135,77 @@ Average cost | Cost divided by quantity
 
 Workers | Bottles per day | Fixed cost | variable cost | total cost | marginal cost
 --- | --- | --- | --- | --- | ---
-0 | 0 |    |     |     |     | --   
-1 | 80  |    |     |     |     |    
-2 | 200 |    |     |     |     |    
-3 | 260 |    |     |     |     |    
-4 | 300 |    |     |     |     |    
-5 | 330 |    |     |     |     |    
-6 | 350 |    |     |     |     |    
-7 | 362 |    |     |     |     |    
+0 | 0   |   |    |    | -- |
+1 | 80  |   |    |    |    |    
+2 | 200 |   |    |    |    |    
+3 | 260 |   |    |    |    |    
+4 | 300 |   |    |    |    |    
+5 | 330 |   |    |    |    |    
+6 | 350 |   |    |    |    |    
+7 | 362 |   |    |    |    |    
 
 ## Cost Curves
+
+Workers per day | Bottles per day | variable cost | AVC | total cost | ATC | Marginal cost
+--- | --- | --- | --- | --- | --- | ---
+0 | 0 | 0 |  | 40 |   |   |
+1 | 80 | 12 | 0.15 | 52 | 0.65 |
+2 | 200 | 24 | 0.12 | 64 | 0.32
+3 | 260 | 36 |  0.135 | 76 | 0.292
 
 ## Margin and Average Relationship
 
 ## Well – Behaved Cost Curves
 
-## Profit Maximization
+# Profit Maximization
+- profit = total\_revenue - total\_cost
+- profit = total\_revenue - (variable\_cost + fixed\_cost)
+
+- To maximize profits, the firm must produce the quantity where the total revenue minus the total cost is greatest
+  - if MR > MC, firm should
+  - if MR < MC, firm should
+  - if MR = MC, firm should
 
 ## Profit maximization for a competitive firm
 
-## Profit Maximization& Competitive Firm’s Supply Curve
+## Profit Maximization & Competitive Firm’s Supply Curve
+- Measuring profit
+  - π = TR - TC = 
+  - if P > ATC
+    - firm will earn
+  - if P < ATC
+    - firm will earn
+  - if P = ATC
+    - firm will earn
 
 ## Profit as the area between price and average total cost
 
 ## Short run and long run decisions
+- Shutdown
+  - Short-run decision to not produce anything
+    - During a specific period of time
+    - Because of current market conditions
+- Exit
+  - Long-run decision to leave the market
 
 ## Shut-Down Decision
+- Cost-Benefit principle applies even to losses
+- Shut down if your losses are less than if you continued operating
+- Shut down if  
 
-## Long run equilibrium in a Competitive Market
+# Long run equilibrium in a Competitive Market
+- Long run: firms can enter and exit the market
+- if existing firms make positive profit
+- if existing firms make negative profit
+- process of entry and exit ends when
 
 ## Long-run market equilibrium
 
-# Producer Surplus
+(diagram)
 
+# Producer Surplus
+- Producer surplus is the difference between the market price and the seller's reservation price
+- Producer surplus is the area above the supply cureve and below the market price
+
+(diagram): PS = 1/2 * (2.00 - 0) * (4 - 0) = 4 1000's $'s per day
 
