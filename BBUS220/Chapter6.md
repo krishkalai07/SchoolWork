@@ -205,7 +205,7 @@ Workers per day | Bottles per day | variable cost | AVC | total cost | ATC | Mar
 
 # Producer Surplus
 - Producer surplus is the difference between the market price and the seller's reservation price
-- Producer surplus is the area above the supply cureve and below the market price
+- Producer surplus is the area above the supply curve and below the market price
 
 (diagram): PS = 1/2 * (2.00 - 0) * (4 - 0) = 4 1000's $'s per day
 
