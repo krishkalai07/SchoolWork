@@ -47,7 +47,7 @@ Human recycles more if
 - can deposit increase
 - dish-washing wage decreases
 
-## Perfectly Competitive Market
+# Perfectly Competitive Market
 - Main characteristic of a perfectly competitive market
   1. Many buyers and sellers
   2. Trade identical products
@@ -113,11 +113,36 @@ Long run | period of time where all inputs are variable
     - Trash can is picked up
 
 ## Cost Concepts – Short run
-
+Concept | definition
+Fixed cost | <ul><li>The sum of all payments for fixed input</li><li>FC = </li></ul>
+Variable cost | <ul><li>The sum of all payments for fixed input</li><li>FC = </li></ul>
+Average cost | Cost divided by quantity
 
 ## An example of Production and Costs in the Short Run
+- Our model has:
+  - A perfectly competitive market for bottles
+  - A single product: bottles
+
+- Two inputs
+  - labor (variable)
+  - capital (fixed in the short run) - 1 unit in example
+
+- Price of input:
+  - Wage: $12/day
+  - Rent: $40/day
 
 ## Short run production and costs
+
+Workers | Bottles per day | Fixed cost | variable cost | total cost | marginal cost
+--- | --- | --- | --- | --- | ---
+0 | 0 |    |     |     |     | --   
+1 | 80  |    |     |     |     |    
+2 | 200 |    |     |     |     |    
+3 | 260 |    |     |     |     |    
+4 | 300 |    |     |     |     |    
+5 | 330 |    |     |     |     |    
+6 | 350 |    |     |     |     |    
+7 | 362 |    |     |     |     |    
 
 ## Cost Curves
 
