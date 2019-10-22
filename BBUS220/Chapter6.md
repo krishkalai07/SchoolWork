@@ -152,27 +152,32 @@ Q = 12 -> TC = 170 (MC = (170-150)/2 = 20/2 = 10)
 
 ## Short run production and costs
 
+(w = $12, rent = $40)
+
 Workers | Bottles per day | Fixed cost | variable cost | total cost | marginal cost
 --- | --- | --- | --- | --- | ---
-0 | 0   |   |    |    | -- |
-1 | 80  |   |    |    |    |    
-2 | 200 |   |    |    |    |    
-3 | 260 |   |    |    |    |    
-4 | 300 |   |    |    |    |    
-5 | 330 |   |    |    |    |    
-6 | 350 |   |    |    |    |    
-7 | 362 |   |    |    |    |    
+0 | 0   | 40 | 0  | 40 |   |
+1 | 80  | 40 | 12 | 52 | 0.15 |    
+2 | 200 | 40 | 24 | 64 | 0.1 |    
+3 | 260 | 40 | 36 | 76 | 0.20 |    
+4 | 300 | 40 | 48 | 88 | 0.30 |    
+5 | 330 | 40 | 60 | 100 | 0.4 |    
+6 | 350 | 40 | 72 | 112 | 0.5 |    
+7 | 362 | 40 | 84 | 124 | 0.6 |    
 
 ## Cost Curves
-
 Workers per day | Bottles per day | variable cost | AVC | total cost | ATC | Marginal cost
 --- | --- | --- | --- | --- | --- | ---
 0 | 0 | 0 |  | 40 |   |   |
-1 | 80 | 12 | 0.15 | 52 | 0.65 |
-2 | 200 | 24 | 0.12 | 64 | 0.32
-3 | 260 | 36 |  0.135 | 76 | 0.292
+1 | 80 | 12 | 0.15 | 52 | 0.65 | 0.15
+2 | 200 | 24 | 0.12 | 64 | 0.32 | 0.1
+3 | 260 | 36 |  0.135 | 76 | 0.292 | 0.2
 
 ## Margin and Average Relationship
+Game | 1 | 2 | 3 | 4 | 5
+---  | --- | --- | --- | --- | ---
+Marginal | 45 | 15 | 21 | 27  | 42 
+Average | 45 | 30 | 27 | 27  | 30
 
 ## Well – Behaved Cost Curves
 
@@ -181,36 +186,38 @@ Workers per day | Bottles per day | variable cost | AVC | total cost | ATC | Mar
 - profit = total\_revenue - (variable\_cost + fixed\_cost)
 
 - To maximize profits, the firm must produce the quantity where the total revenue minus the total cost is greatest
-  - if MR > MC, firm should
-  - if MR < MC, firm should
-  - if MR = MC, firm should
+  - if MR > MC, firm should increase output
+  - if MR < MC, firm should decrease output
+  - if MR = MC, firm should profit-maximizing level of output
 
 ## Profit maximization for a competitive firm
+(graph)
 
 ## Profit Maximization & Competitive Firm’s Supply Curve
 - Measuring profit
-  - π = TR - TC = 
-  - if P > ATC
-    - firm will earn
-  - if P < ATC
-    - firm will earn
-  - if P = ATC
-    - firm will earn
+  - π = TR - TC = (P - ATC) * Q
+  - if P > ATC, firm will earn positive profits (π > 0)
+  - if P < ATC, firm will earn negative profits (π < 0)
+  - if P = ATC, firm will earn zero profits (π = 0)
 
 ## Profit as the area between price and average total cost
 
 ## Short run and long run decisions
 - Shutdown
+  - (Closed for winter)
   - Short-run decision to not produce anything
     - During a specific period of time
     - Because of current market conditions
+    - Firm still pays fixed costs
 - Exit
+  - (Going out of business)
   - Long-run decision to leave the market
+  - Sunk costs
 
 ## Shut-Down Decision
 - Cost-Benefit principle applies even to losses
 - Shut down if your losses are less than if you continued operating
-- Shut down if  
+- Shut down if your VC > TR
 
 # Long run equilibrium in a Competitive Market
 - Long run: firms can enter and exit the market
