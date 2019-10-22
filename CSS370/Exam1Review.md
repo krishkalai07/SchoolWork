@@ -63,6 +63,7 @@ extend, inheritance (override)
  - Example
    - Name: Session use case
    - Scenarios: 
+
 Item | Scenario
 --- | ---
 1 | Customer inserts an ATM card into the card reader slot of the machine
