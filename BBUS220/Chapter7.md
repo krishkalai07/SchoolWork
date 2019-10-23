@@ -111,3 +111,15 @@ Would you buy illegal bread if you could? |
   - consumer surplus = 
   - producer surplus = 
   - total surplus = 
+- consumer and producer loss = 
+  - tax revenue
+  - net benefit
+
+## Tax on avocado sellers and total surplus
+- Deadweight loss is the reduction in total economic surplus that results from the adoption of a policy.
+
+## Taxes and Price elasiticty of demand
+- In this case, the avocado tax was shared equally
+  - buyers paid
+  - sellers received
+- in general, the amount of tax paid (the burden) by buyers and sellers depends on teh price elasiticy of demand
