@@ -8,7 +8,11 @@
 *.js
 *.css
 *.sh
+<<<<<<< HEAD
 # vim swap file
+=======
+*.py
+>>>>>>> 4a4ab390fcdc1499117fe5670b3d3975d6045566
 **/*.swp
 # Source file from EASy68k
 *.x68
