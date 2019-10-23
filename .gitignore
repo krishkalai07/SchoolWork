@@ -1,2 +1,21 @@
+# any source files (how ironic)
+*.py
+*.cpp
+*.h
+*.rb
+*.java
+*.html
+*.js
+*.css
 *.sh
+# vim swap file
 **/*.swp
+# Source file from EASy68k
+*.x68
+# Listing file from EASy68k
+*.l68
+# S-record from EASy68k
+*.s68 
+
+# Per rule, no text files. Only markdown, word or image files
+**/*.txt
