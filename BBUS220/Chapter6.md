@@ -222,8 +222,12 @@ Average | 45 | 30 | 27 | 27  | 30
 # Long run equilibrium in a Competitive Market
 - Long run: firms can enter and exit the market
 - if existing firms make positive profit
+  - new firms can enter the market
 - if existing firms make negative profit
+  - Forms exit the market
+  - Supply decreases raising the eq. price and profits
 - process of entry and exit ends when
+  - Firms still in market
 
 ## Long-run market equilibrium
 
@@ -234,4 +238,11 @@ Average | 45 | 30 | 27 | 27  | 30
 - Producer surplus is the area above the supply curve and below the market price
 
 (diagram): PS = 1/2 * (2.00 - 0) * (4 - 0) = 4 1000's $'s per day
+
+
+# Additional Notes
+- Price curve: Demand (individual)
+- Marginal cost (supply)
+- ATC cuts through min(MC)
+- π = (P-ATC) * Q
 
