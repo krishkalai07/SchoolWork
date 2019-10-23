@@ -94,7 +94,7 @@ Would you buy illegal bread if you could? |
   - imposing a price ceiling on apartments or housing
 - Goal
 
-## Policy experiment 3: Taxes on sellers
+## Policy Experiment 2: Taxes on sellers
 - Tax program
   - selelrs reposrt sales in units to government
   - sellers pays a fixed dollar amount per unit sold
