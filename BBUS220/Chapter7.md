@@ -11,9 +11,9 @@
 Term | Definition
 --- | ---
 Explicit cost | payments firms make to purchace <ul><li>hiring labor,renting land, products from other firms</li></ul>
-Implicit costs | are the costs of the resources supplied by the firm's owners
-Accounting profits | most common profit idea
-Economic profit |  
+Implicit costs | are the costs of the resources supplied by the firm's owners<ul><li>labor of owner, use of the owner's car, apartment</li></ul>
+Accounting profits | most common profit idea AP = TR - EC
+Economic profit | how much money is made over other jobs EP = TR - EC - IC
 
 ## Economic Profits Guide Decisions
 
@@ -24,10 +24,12 @@ Economic profit |
 
 Implicit costs | Accounting Profits | Economic Profit
 --- | --- | ---
-   |   |   |
+11000 | 12000 | 1000 |
+
+EC = 10000
 
 # Market Response to Economic profits
-- in the short run, typical corn farms earn
+- in the short run, typical corn farms earn 0 profits
 
 ## Market Eqyulibrium
 - Firms keep coming into the corn industry until the typical firm earns 0 economic profits
@@ -37,10 +39,12 @@ Implicit costs | Accounting Profits | Economic Profit
 - Long run: firms can enter and exit the market
   - If P > ATC
     - Profit > 0
+    - New firms enter the market
   - If P < ATC
     - Profit < 0
+    - Firms exit the market
   - Process of entry and exit ends when (L.R equilibrium):
-    - Firms:
+    - Firms: 0 economic profit (P = ATC)
 
 ## Graphical Representiaoin of the Adjustments
 - The market for haircuts is in equilibrium. Then demand for haircuts decreases.
@@ -66,7 +70,7 @@ Implicit costs | Accounting Profits | Economic Profit
 # Market efficiency
 - Adam Smith: markets are automatically channeling self-interest toward socially desirable ends (the most effiecent allocation of reource - **the invisible hand**)
 - Economic well-being of a society (welfare)
-  - Total surplus (W) = 
+  - Total surplus (W) = CS + PS
 - Efficinecy (Pareto efficiency) - property of a resource allocation
   - maximizing the total surplus (W)
 - Equity
