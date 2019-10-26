@@ -27,22 +27,22 @@ Slide notes
   - A measure of relative levels of satisfaction consumers enjoy from consumption of goods and services
   - Sometimes numerically quantified by a unit of happiness called a “util”
 - Total utility
-  - Overall amount of happeiness from comsumption
+  - Overall amount of happiness from consumption
 - Marginal utility
   - Additional utility gained from consuming one more unit of a good or service
 - Law of Diminishing Marginal Utility
-  - Genrally marginal utility
+  - Generally marginal utility
 
 - Man vs. Food
   - Total utility: total happiness from eating hamburger
-  - Marginal utility: differnece of each bite
+  - Marginal utility: difference of each bite
 
 Cones vs hour | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 Total utility | 0 | 50 | 90 | 120 | 140 | 150 | 140
 Marginal utility | - | 50 | 40 | 30 | 20 | 10 | -10
 
 - **Law of diminishing marginal utility**
-  - Gnerally marginal utility declines
+  - Generally marginal utility declines
 
 ## Diamond-Water Paradox
 - Paradox:
@@ -62,7 +62,7 @@ Marginal utility | - | 50 | 40 | 30 | 20 | 10 | -10
   - Go to the concert more until they are equal
 
 
-## Subsitution Effect
+## Substitution Effect
 - When the price of a good goes up, substitutes for that good are relatively more attractive. For example: If the price of vanilla ice cream goes up:
  - some buyers will buy less vanilla and more chocolate
 
@@ -85,8 +85,8 @@ Marginal utility | - | 50 | 40 | 30 | 20 | 10 | -10
 
 ## Consumer Surplus of milk
 
-- Price is $2 and quanity is 4000 gallons per day
+- Price is $2 and quantity is 4000 gallons per day
 - CS is the area between
-  - Demand, Market price, Market Quanitty
+  - Demand, Market price, Market Quantity
 
 - The area is $2000 

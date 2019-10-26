@@ -23,7 +23,7 @@ Slide notes
   - ε = Percentage change in quantity demanded / Percentage change in price
   - ε = %ΔQd/%ΔP = ΔQd/Qd / ΔP/P
   - Qd and P are old quantity demanded and price
-  - For small percent changes in prices (is apporximation)
+  - For small percent changes in prices (is approximation)
   - Price elasticity of demand is **always** negative, but always consider absolute value
 - Example: Demand for Pizza
 
@@ -54,7 +54,7 @@ Quantity | 400 | 404 | -1%
 
 8/3 * 1/4 = 2/3 * 1 = 2/3 = 0.66 < 1, inelastic
 
-## Price Elasiticy Pattern
+## Price Elasticity Pattern
 - Price elasticity changes systematically as price goes down
   - Slope is the same for the demand curve
   - P/Q decreases as price goes down and quantity goes up
@@ -77,15 +77,15 @@ Quantity | 400 | 404 | -1%
 
 ## Elastic and Total Revenue
 
-Elasicity | coeficcent | interpretation | example
+Elasticity | coefficient | interpretation | example
 -------- | --------- | ---------- | --------
 Perfectly elastic | = 0 | price doesn't matter | saving a pet
-relatively elastic | 0 > e > -1 | price is less important than qd | electricity
+relatively elastic | 0 > e > -1 | price is less important than q_d | electricity
 unitary
-relativly elastic | -1 > e > inf | price is more importnat than qd | apple
-perfecly elastic | e = inf | price is everything | $10 bill
+relatively elastic | -1 > e > inf | price is more important than q_d | apple
+perfectly elastic | e = inf | price is everything | $10 bill
 
-- Terminaology: total revenue = total expenditures
+- Terminology: total revenue = total expenditures
   - Calculate as P x Q
 - Graphing idea:
   - P = 2 and Q = 4
@@ -101,7 +101,7 @@ If Demand is | a price increase will
 Elastic | ↓Q ↓TR
 Inelastic ↓Q ↑TR
 
-If Demand is | a price decerase will
+If Demand is | a price decrease will
 --------- | --------
 Elastic | ↑Q ↑TR
 Inelastic ↑Q ↓TR
@@ -110,7 +110,7 @@ Inelastic ↑Q ↓TR
 - Necessity (need or want)
   - Higher necessity, lower elasticity
   - HIV drugs vs. sports drugs
-- Subsitution options
+- Substitution options
   - More options, more elastic
   - Water vs elasticity
 - Budget share
@@ -121,9 +121,9 @@ Inelastic ↑Q ↓TR
   - Gasoline
 
 ## Cross-Price Elasticity of Demand
-- Subsitutes and complements affect demand
+- Substitutes and complements affect demand
 - Cross-price elasticity of demand
   - ε = %ΔQa / %ΔQd
 - sign of cross-price elasticity shows relationship between the goals
-  - Noramal ε < 0
+  - Normal ε < 0
   - Inferior ε > 0
