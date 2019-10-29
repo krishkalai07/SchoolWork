@@ -80,18 +80,22 @@ EC = 10000
 - Total well-being - the sum of consumer and producer surplus - is the are between the supply and demand curves up to the equilibrium quantity
 
 # Heating oil market
+CS above market price, below demand
+PS below market price, above demand
+W = CS + PS
 
 ## Policy experiment 1: $1 price ceiling on heating oil
+Dead weight Loss (DWL): CS - PS 
 
 ## Thought experiment: $0.50 Price ceiling on bread
 
 Question | explanation
 --- | ---
-Will there be more or less bread for sale? |  
-Will the size of a typical loaf change? | 
-Will the quality change? | 
-WIll the opportunity cost of finding bread change? | 
-Would you buy illegal bread if you could? | 
+Will there be more or less bread for sale? | Consumers will want to purchace more but manafacutes will produce less
+Will the size of a typical loaf change? | Reduce the size of each loaf
+Will the quality change? | expensive breads will no longer be made
+WIll the opportunity cost of finding bread change? | opportunity cost of finding bread will rise
+Would you buy illegal bread if you could? | A black market will develop
 
 ## Example of price ceilings
 - Rent control
@@ -108,16 +112,17 @@ Would you buy illegal bread if you could? |
 
 ## Tax on avocado sellers and total surplus
 - Before tax
-  - consumer surplus = 
-  - producer surplus =
-  - total surplus = 
+  - consumer surplus = 4.5
+  - producer surplus = 4.5
+  - total surplus = 9
 - After tax
-  - consumer surplus = 
-  - producer surplus = 
-  - total surplus = 
-- consumer and producer loss = 
-  - tax revenue
-  - net benefit
+  - consumer surplus =  3.125
+  - producer surplus = 5.125
+  - total surplus = 6.25
+- consumer and producer loss = 2.75
+  - tax revenue = 2.5
+  - net benefit = -0.25
+  - CPL = TR - NB
 
 ## Tax on avocado sellers and total surplus
 - Deadweight loss is the reduction in total economic surplus that results from the adoption of a policy.
@@ -127,3 +132,13 @@ Would you buy illegal bread if you could? |
   - buyers paid
   - sellers received
 - in general, the amount of tax paid (the burden) by buyers and sellers depends on the price elasticity of demand
+- taxes effect more in elastic graphs
+- deadweight loss is greater when elastic
+
+Taxation, welfare and deadwieght loss
+- pay for public goods, schools, reoads, transporation, military, police, etc.
+
+Examples of taxes
+- income, payroll, sales, excise, etc
+- excise tax
+  - a tax on a specific good, alcohol, tobacco, gasoline, for example
