@@ -124,7 +124,6 @@ price
 
 ### carla thing
 
-
 Student | Reservation Price | Total Revenue | MR
 --- | --- | --- | ---
 A | 40 | 40 | 40
@@ -134,3 +133,9 @@ C | 36 | 106 | 32
 D | 34 | 34 | 34
 E | 32 | 64 | 30
 F | 30 | 90 | 26
+
+## Third degree price discrimination
+- different groups of identifiable people
+- tird degwee pwicing
+  - discounts for idenifiable gwoups
+  - customews show an id to get the wowest pwice
