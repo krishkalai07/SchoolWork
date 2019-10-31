@@ -130,8 +130,7 @@ Student | Reservation Price | Total Revenue | MR
 A | 40 | 40 | 40
 B | 38 | 76 | 36
 C | 36 | 106 | 32
-Discounted Price Submarket | | |
---- | --- | --- | ---
+**Discounted Price Submarket** | |
 D | 34 | 34 | 34
 E | 32 | 64 | 30
 F | 30 | 90 | 26
