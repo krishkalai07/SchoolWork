@@ -139,3 +139,67 @@ F | 30 | 90 | 26
 - tird degwee pwicing
   - discounts for idenifiable gwoups
   - customews show an id to get the wowest pwice
+- Examples:
+  - Students
+  - Retired people
+
+## Conditions of Price discrimination
+- two conditons for price discriminoation
+  - firsm must be able tp oto distingus grojops of buyers with different price elasiticies
+  - frim must prevent resale of the good or service (arbitrage)
+
+## Medical test strips Emergo
+- Germany, Holland, Scandanavia
+  - machine for 25
+  - 50 sell for 22
+  - 12 mil box of test strips
+- lopwer prices to southers eroupe
+  - machines sell for 12.5
+  - 50 test strips for $11
+
+- how to prevent arbitrage?
+  - id  
+
+- in order to not violate eroupean antitrust lasws they have to justify the price the price difference based on cost. How do they do this?
+  - reduce software in it
+
+# Oligoploy
+- Characteristics
+  - Only few sellers
+  - offer similar/identical product
+  - interdependent
+  - some barriers to entry in the industry
+  - tension between cooperation (acting like a monopoly) and self-interst (competition)
+- game theory (ch9) - how people behave in stragegic situations
+
+## OPEC and world oil market
+- org of petroleum exporting countries controls 3/4 of worlds oil reserves
+  - purpose of the organization
+- problem: each member of the cartel is tempted to 
+  - increase production
+  - get a larger share of profits
+  - they will cheat on agreement
+
+## cheating in a cartek
+- opec cate
+- 1988
+- war on iran
+
+# Monopolistic competition
+- characteristic
+  - many selelrs
+  - product differentionation
+    - downward sloping demand curve
+    - price makers
+    - higher prices than ceompetition, lower than monopoly
+- fwee entwy and exit (no bawwiews ot entwy)
+  - zero economic profit in the long run
+    - new first enter the market
+    - reduces demend faceb by each firms
+    - each firsm profit declines
+
+# four types of market strucuture
+monopoly 1 firm
+ologoply few firsm
+mono comp diff produucts - many firms
+perfect comp - identical products - many firms
