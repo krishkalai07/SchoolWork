@@ -39,8 +39,8 @@
 \- | Outcome1 | Outcome2 | Outcome3 | Outcome4
 --- | --- | --- | --- | ---
 P\_TRU | $10 | $12.5 | $10 | $12.5
-Q\_TRU | 30 | 30 | 60 | 0 | 0
-Profits\_TRU | 150 | 300  | 
+Q\_TRU | 30 | 30 | 60 | 0 |
+Profits\_TRU | 150 | 300  | 0
 P\_W-M | $10 | $12.5 | $12.5 | $10
 Q\_W-M | 30 | 30 | 0 | 60
 Profits\_W-M | 150 | 225 | 0 | 300
@@ -49,3 +49,8 @@ WM\\TRU    | Price high | Price low
 --- | --- | ---
 Price high | 225.225 | 0,300
 price low | 300,0 | 150,150
+
+PlayerA\\PlayerB | Rock | Paper | Scissors
+Rock | 0,0 | -1.1 | 1,-1
+Paper | 1,-1 | 0.0 | -1,1
+Scissors | -1,1 | 1.-1 | 0,0
