@@ -50,6 +50,8 @@ WM\\TRU    | Price high | Price low
 Price high | 225.225 | 0,300
 price low | 300,0 | 150,150
 
+## Rock paper scissors
+
 PlayerA\\PlayerB | Rock | Paper | Scissors
 Rock | 0,0 | -1.1 | 1,-1
 Paper | 1,-1 | 0.0 | -1,1
