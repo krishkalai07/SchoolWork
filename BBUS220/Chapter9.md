@@ -36,7 +36,7 @@
  of the market and hence profit
 
 ## Possible outcoes
-   | Outcome1 | Outcome2 | Outcome3 | Outcome4
+\- | Outcome1 | Outcome2 | Outcome3 | Outcome4
 --- | --- | --- | --- | ---
 P\_TRU | $10 | $12.5 | $10 | $12.5
 Q\_TRU | 30 | 30 | 60 | 0 | 0
