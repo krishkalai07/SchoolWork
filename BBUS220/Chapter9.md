@@ -56,3 +56,18 @@ PlayerA\\PlayerB | Rock | Paper | Scissors
 Rock | 0,0 | -1.1 | 1,-1
 Paper | 1,-1 | 0.0 | -1,1
 Scissors | -1,1 | 1.-1 | 0,0
+
+# Dominatnt Strategy Equilibrium
+- Dominant strateg
+  - a strategy that work better than any other one, no matter what the other player does
+- If one exists, will play the dominant strategy... but, none may exist
+- To simplify the game, eliminate dominated strategie
+- Dominant strategy equilibrium – where each player 
+follows a dominant strategy
+
+# Is walmart OP af?
+
+- ~~Walmart H 225 or 0~~
+- Walmart L 300 or 150
+- ~~ToysRUs H 225 0~~
+- ToysRUS L 300 150
