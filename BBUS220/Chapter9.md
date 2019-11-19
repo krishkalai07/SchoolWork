@@ -71,3 +71,7 @@ follows a dominant strategy
 - Walmart L 300 or 150
 - ~~ToysRUs H 225 0~~
 - ToysRUS L 300 150
+
+# Simpify the game
+
+- Eliminate dominated strategies
