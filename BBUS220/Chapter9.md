@@ -75,3 +75,33 @@ follows a dominant strategy
 # Simpify the game
 
 - Eliminate dominated strategies
+
+## Nash Equlibrium (John Forbes Nash)
+- Dominant Strategy Equilibrium occurs when:
+  - each player follows his dominant strategy, regardless the other player’s strategies, if it exists
+- Nash Equilibrium is any combination of strategies in which:
+  - each player’s strategy is her or his best choice, given the other player’s strategies
+- All dominant strategies are Nash Equilibriums but not vice versa
+
+## Find the equilibrium
+1\\2 | Left | Middle | Right
+--- | --- | --- | ---
+Up | _2_,_2_ | 1,1 | _4_,0
+Down | 1,2 | _4_,1 | 3,_5_
+
+## Cartel Pricing
+- A cartel is a coalition of firms that agree to restrict
+output to increase economic profit
+- Example:
+  - Two oil produces: Iran & Iraq
+  - Each can produce either 2 or 4 million barrels per day
+  - Iran can produce output at $2/barrel (ATC\_Iran)
+  - Iraq can produce at $4/barrel (ATC\_Iran)
+  - World output will be 4, 6 or 8 million barrels/day (Q\_TOTAL)
+  - Price/barrel in these three scenarios  would be $25, $15, and $10 (P)
+  - Both Iran & Iraq choose low production (Q\_Iran = 2, Q\_Iraq = 2) and world production is Q\_TOTAL = 4. What is the price of oil?
+  - Iran's profits:
+    - π = revenue-costs = 
+  - Iraq's profits:
+    - π = (25-2)\*2 = 46
+    - π = (25-4)\*4 = 42 
