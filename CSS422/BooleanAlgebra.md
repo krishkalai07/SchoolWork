@@ -14,7 +14,7 @@ Rule | Name
 A ~A = false | AND identity
 A + ~A  = true | OR identity
 A ^ B = A~B + ~AB | XOR definition
-~(A B) = ~A + ~B | NAND definition / De'Morgans (OR) Law
-~(A + B) = ~A~B | NOR definition / De'Morgans (AND) Law
+~(A B) = ~A + ~B | NAND definition / De Morgan's (OR) Law
+~(A + B) = ~A~B | NOR definition / De Morgan's (AND) Law
 ~(A ^ B) = ~A~B + AB | XNOR definition
 
