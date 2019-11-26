@@ -62,4 +62,12 @@ Excludable\Consumable | Rival | Non-rival
 Yes | private good <br> pizza, automobiles | Club goods <br> cable television, education
 No | Common goods <br> fish in the ocean, congested roads | public goods <br> national defence, tsunami warining systems
 
-
+# Public policy Towards externality
+- Private solutions
+  - moral codes and social santions
+  - self interst of the parties - enter a contract
+- Gevernment intervention: regulation
+   -making certian behavios rrequired or forbindden
+- government intervention: market-based policies
+  - givt proved incentive
+    - corrective gtaxes
