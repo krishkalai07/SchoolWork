@@ -14,4 +14,41 @@
   - reserch into new technologu
   - education, reserach
 
-## 
+## Honeybee Keeper - Negative Externalities
+- Cost to society (of making honey is):
+  - Private costs of the producers (MC)
+  - the costs to those bystanders affected adversely by the negative externality (XC = external costs)
+
+**When external costs exist, maximising private profits prodice more than the social equilibrium**
+
+## Taxing a Negative Externalitu (internalizing externality)
+- Private EQ = Private MC • D
+- Social optimum = Socual MC • D
+- Deadweight loss = Area (SocialMC, Demand, private quantity)
+- Solution:
+  - impose a "nuisance" tax of $1000/ton
+
+## Honeybee Keeper - Negative Externalities
+- Value to society (from beekeeping) is the sum of:
+  - private value to the consumer of honey
+  - plus the value to those farmers affected by bees pollinating their apple orchard (XB = external benifits)
+
+**When external benefits exist, maximizing private profits prodices less than the social optimim**
+
+## Subdidizing a Postive Externality
+- Private EQ = Private MC • D
+
+```
+
+price
+   ^
+14 |\  \    /MC
+   | \  \  /
+10 |  \  \/
+ 8 |   \ /\
+   |    x  \ social demand
+   |   / \ private demand
+   ---------->
+      12 16
+
+```
