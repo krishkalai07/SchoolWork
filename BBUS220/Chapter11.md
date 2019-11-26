@@ -38,17 +38,28 @@
 ## Subdidizing a Postive Externality
 - Private EQ = Private MC • D
 
+
+
+
 ```
 
 price
-   ^
-14 |\  \    /MC
-   | \  \  /
-10 |  \  \/
- 8 |   \ /\
-   |    x  \ social demand
-   |   / \ private demand
-   ---------->
+   ↑
+14 │\  \    /MC
+   │ \  \  /
+10 │  \  \/ 
+ 8 │   \ /\ 
+   │    x  \ social demand
+   │   / \ private demand
+   └────────➙
       12 16
-
+      Quantity
 ```
+
+# Common goods and teh tragedy of the commonds
+
+Excludable\Consumable | Rival | Non-rival
+Yes | private good <br> pizza, automobiles | Club goods <br> cable television, education
+No | Common goods <br> fish in the ocean, congested roads | public goods <br> national defence, tsunami warining systems
+
+
