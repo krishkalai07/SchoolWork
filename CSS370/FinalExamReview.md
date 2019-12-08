@@ -1,4 +1,4 @@
-# Use case
+# Use Case Diagram
 - Scenario-oriented description of expected functionality for the system 
   - Show “what” can be done (instead of “how” it works
   - Don’t care about class, object, package, etc. 
@@ -10,9 +10,9 @@
     - Relationship between use cases: include, extend, inheritance
     - Relationship between actors: inheritance
 
-![Use case diagram components](./UseCaseDiagramComponents.png)
+![Use Case Diagram Components](./UseCaseDiagramComponents.png)
 
-# Diagram comparisons
+# Diagram Comparisons
 Diagram Type | Data | Process | Static | Dynamic | Integration | Level Of Disclousure | Scope
 --- | --- | --- | --- | --- | --- | --- | ---
 Domain | x |   | x |   |   | low | system
@@ -80,7 +80,7 @@ interconnected
 
 ![Robustness Diagram Components](./RobustnessDiagramComponents.png)
 
-# Sequence diagram
+# Sequence Diagram
 - Purpose
   - Help assign operations to classes/instances while drawing messages
   - Drive the detaield design - sequencing of assigned calls
