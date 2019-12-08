@@ -12,7 +12,8 @@
 
 # Diagram comparisons
 
-Diagram Type | Data | Proc. | Static | Dynamic | Iintegration | Level Of Disclousure | Scope
+Diagram Type | Data | Proc. | Static | Dynamic | Integration | Level Of Disclousure | Scope
+--- | --- | --- | --- | --- | --- | --- | ---
 Domain | x |   | x |   |   | low | system
 Use case |   |   |   |   | x | low | system
 Activity |   | x |   | x |   | med | UC
