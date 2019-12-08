@@ -13,13 +13,13 @@
 ![Use case diagram components](./UseCaseDiagramComponents.png)
 
 # Diagram comparisons
-Diagram Type | Data | Proc. | Static | Dynamic | Integration | Level Of Disclousure | Scope
+Diagram Type | Data | Process | Static | Dynamic | Integration | Level Of Disclousure | Scope
 --- | --- | --- | --- | --- | --- | --- | ---
 Domain | x |   | x |   |   | low | system
 Use case |   |   |   |   | x | low | system
-Activity |   | x |   | x |   | med | UC
-Robustness | x | x |   | x | x | high | UC
-Sequence | x | x |   | x | x | high | UC
+Activity |   | x |   | x |   | med | use case
+Robustness | x | x |   | x | x | high | use case
+Sequence | x | x |   | x | x | high | use case
 Data Flow | x |   |   | x |   | low | system
 
 # Use Case Description
@@ -48,6 +48,8 @@ interconnected
     - No black hole (all in, no out)
     - no white hole (no in, all out)
     - Add numbers to procesess for tracking across levels (in the same level, no order)
+
+![Data Flow Diagram Components](./DataFlowDiagramComponent.png)
 
 # Robustness Analysis / Diagram
 - Purposes
