@@ -10,7 +10,7 @@
     - Relationship between use cases: include, extend, inheritance
     - Relationship between actors: inheritance
 
-![Actor][./Actor.png]
+![Actor](./Actor.png)
 
 # Diagram comparisons
 Diagram Type | Data | Proc. | Static | Dynamic | Integration | Level Of Disclousure | Scope
