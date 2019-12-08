@@ -114,7 +114,8 @@ interconnected
     - all fields of object
     - (-) private
     - (+) public
-    - (/) protected
+    - (#) protected
+    - (/ ~) package-private
   - operation/methods (optional)
     - may omit trivial methods (except from interface)
     - should not include inherited methods
