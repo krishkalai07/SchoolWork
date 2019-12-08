@@ -4,11 +4,13 @@
   - Don’t care about class, object, package, etc. 
   - Triggered by an actor
   - UML syntax
-    - Actor: anything external to the program that interacts with the program ![Actor](./Actor.png)
+    - Actor: anything external to the program that interacts with the program
     - Use case: Provides value to actors
     - Interaction
     - Relationship between use cases: include, extend, inheritance
     - Relationship between actors: inheritance
+
+![Use case diagram components](./UseCaseDiagramComponents.png)
 
 # Diagram comparisons
 Diagram Type | Data | Proc. | Static | Dynamic | Integration | Level Of Disclousure | Scope
