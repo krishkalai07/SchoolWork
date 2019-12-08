@@ -90,6 +90,8 @@ interconnected
   - Both basic and alternate courses
   - Focus on behavior allocation
 
+![Sequence Diagram Components](./SequenceDiagramComponents.png)
+
 # Class Design
 - class identification from project spec/requirements
   - nouns are classes/objects/fields
