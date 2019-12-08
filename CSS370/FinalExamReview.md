@@ -78,6 +78,8 @@ interconnected
   - Controllers can talk to boundary objects, entity objects, and other controllers, but not to actors
     - Controllers are always middleware and so don’t to anything outside the system
 
+![Robustness Diagram Components](./RobustnessDiagramComponents.png)
+
 # Sequence diagram
 - Purpose
   - Help assign operations to classes/instances while drawing messages
