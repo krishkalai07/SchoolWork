@@ -72,5 +72,47 @@ interconnected
   - Entity objects can only talk to controllers.
     - Model objects can only talk with controllers
   - Controllers can talk to boundary objects, entity objects, and other controllers, but not to actors
-    - Controllers are always middleware and so don’t to anything 
-outside the system (e.g., users)
+    - Controllers are always middleware and so don’t to anything outside the system
+
+# Sequence diagram
+- Purpose
+  - Help assign operations to classes/instances while drawing messages
+  - Drive the detaield design - sequencing of assigned calls
+  - Further refine set of required classess and operatrions needed
+- How
+  - One sequence diagram per use case
+  - Both basic and alternate courses
+  - Focus on behavior allocation
+
+# Class Design
+- class identification from project spec/requirements
+  - nouns are classes/objects/fields
+  - verbs are potential methods or responsibilites of a class
+- CRC card exercises
+  - write class name on index card
+  - next to each class, list the following
+    - responsibilities: problems to be solved (verb phrases)
+    - collaborators: other classes that are sent messages by this class (asymmetric)
+
+# Class Diagrams
+- Definition
+  - a picture of the classes in a OO system, their fields and methods, and connections between the classes that interact or inherit from each other
+  - does not represent
+    - details of the class interaction
+    - algorithmic details (behavior implementation)
+- Syntax
+  - Class name on top of box
+    - \<\<interface\>\> above interface name
+    - abstract class in italics
+  - attributes (optional)
+    - all fields of object
+    - (-) private
+    - (+) public
+    - (/) protected
+  - operation/methods (optional)
+    - may omit trivial methods (except from interface)
+    - should not include inherited methods
+  - relationship between classses
+    - generalization (inheritance betwen classes / interface implementaion)
+    - association (dependency/aggregation/composition)
+    - may include multiplicity
