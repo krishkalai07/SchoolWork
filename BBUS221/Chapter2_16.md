@@ -49,3 +49,92 @@ quantity of wings
 - Law of increasing opportunity cost
   - As we produce more of good A, we have to give up increasingly larger amounts of good B.
 - Why?
+
+# The Dynamic Economy
+- Changes in PPC occur over time due to
+  - More resources
+  - Improvements in technology & knowledge
+
+- Neutral Technical Change: entire curve shifts out 
+- Biased Technical Change: curve rotates out 
+
+# Absolute & Comparative Advantage
+
+Person | Pizzas | Wings
+--- | --- | ---
+Debra | 60 | 120
+Mike | 24 | 72
+
+- Absolute Advantage
+- Who has the absolute in pizza? In wings?
+
+- opportunity cost
+
+Person | 1 Pizza | 1 Wings
+--- | --- | ---
+Debra | 2 | 1/2
+Mike | 3 | 1/3
+
+# Comparative Advantage
+- Who has a comparative advantage in
+  - Pizza?
+  - Wings?
+- Comparative advantage drives specialization
+
+### Debra
+- Draw the PPF for Debra
+- What is her opportunity cost of 1 pizza? 2 wings
+- What is her opportunity cost of 1 wing? 1/2 pizzas
+- If Debra wants 40 pizzas what is the maximum amount of wings she can produce?
+
+### Mike
+-  Draw the PPF for Mike
+- What is his opportunity cost of 1 pizza? 3 wings
+- What is his opportunity cost of 1 wing? 1/3 pizzas
+- If Mike wants 18 pizzas what is the maximum amount of wings he can produce? 18 wings
+
+# Without Specialization and Trade
+
+- Each person can only consume what they produce.
+
+# With Specialization and Trade
+
+Debra Pizza 60
+      Wings 0
+
+- Debra produces only pizza. If she keeps 41 pizzas how 
+many can she give to Mike? 19 pizzas
+- Mike produces wings. If he keeps 25 how many can he 
+give to Debra? 47 pizza
+
+# Terms of Trade
+
+Person | Opportunity Cost | Ratio
+--- | --- | ---
+Debra | 1 pizza equals 2 wings |1:2 = 0.50
+Terms of trade  | 1 pizza for 2.5 wings |  1:2.5 = 0.40
+Mike | 1 pizza equals 3 wings | 1:3 = 0.33
+- Terms of Trade: a trading ratio benefits both sides
+- How much was traded in our previous example?
+  - 19 pizzas for 47 wings ( 1 pizza for 2.5 wings)
+- But, any terms of trade that are between the opportunity costs of the trading partners will work
+
+# Consumption Possibilities Frontier (Curves)
+- Trading Ratio: 0.40  (1 pizza for 2.5 wings)
+
+# International Trade and Comparative Advantage
+- Production possibilities curve shows the quantities of different goods that an economy can produce
+- Consumption possibilities curve shows the quantities of different goods that a country could consume
+- A closed economy (an economy in Autarky) is an economy that does not trade with the rest of the world 
+- In an open economy, an economy that trades with other countries
+
+# Benefit of Free Trade
+- Free trade produces net benefits. Some gain; some lose
+  1. Domestic consumers of imported goods
+  2. Domestic consumers of exported goods
+  3. Domestic producers of imported goods
+  4. Domestic producers of exported goods
+
+Gains | Losses
+--- | ---
+
