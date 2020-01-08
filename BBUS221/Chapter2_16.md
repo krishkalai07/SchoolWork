@@ -28,7 +28,7 @@ quantity of wings
  quantity of pizza
 ```
 
-#Production Possibilities Frontier (PPF)
+# Production Possibilities Frontier (PPF)
 - Definitions
   - Unattainable point (50 wings and 10 pizzas)
   - Attainable point
@@ -125,8 +125,8 @@ Mike | 1 pizza equals 3 wings | 1:3 = 0.33
 # International Trade and Comparative Advantage
 - Production possibilities curve shows the quantities of different goods that an economy can produce
 - Consumption possibilities curve shows the quantities of different goods that a country could consume
-- A closed economy (an economy in Autarky) is an economy that does not trade with the rest of the world 
-- In an open economy, an economy that trades with other countries
+- A closed economy (an economy in Autarky) is an economy that does not trade with the rest of the world (PPF = CPF)
+- In an open economy, an economy that trades with other countries (PPF > CPF)
 
 # Benefit of Free Trade
 - Free trade produces net benefits. Some gain; some lose
@@ -137,4 +137,21 @@ Mike | 1 pizza equals 3 wings | 1:3 = 0.33
 
 Gains | Losses
 --- | ---
+A  | B
+D | C
 
+# Protectionism: tariffs and import quotas
+- Protectionism is the view that free trade is injurious
+and should be restricted
+- Tariff is a tax imposed on an imported good
+- Domestic price:
+  - increase to world price plus tariff
+- Quantity demanded decreases
+- Quantity supplied domestically increases
+- Who will benefit? Domestic consumers, producers, the government?
+- How will the foreign countries retaliate?
+
+# Protectionism and Quotas
+- An Import Quota is a legal limit on the quantity or value of a good that may be imported
+- Economic effects are similar to a tariff. The key difference between tariffs and quotas is the gains captured by permit holders
+- Buy at world prices and sell at a higher price
