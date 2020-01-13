@@ -121,7 +121,58 @@ Imports | 2.91
 Total GDP | $19.38 | 100%
 
 # Income Approach to GDP (3rd)
-# When a good is sold, its proceeds are distributed to workers or business owners
+- When a good is sold, its proceeds are distributed to workers or business owners
 - GDP = labor income + capital income
 - Labor income is
+  - wages, salaries, benefiets, and incomes of self-emplyed
+  - 2/3 of GDP
 - Capital income pays for physical capital and intangibles
+  - Profits for business owener
+  - Interest for bond holders
+  - Rent for land
+  - Royalties
+
+. | Number of Pizzas | Price of Pizza | Munber of Calzones | Prices of Calzones
+--- | --- | --- | --- | ---
+2019 | 10 | $10 | 15 | 5
+2020 | 20 | $12 | 30 | 6
+- 2019 GDP: 175
+ -2020 GPD: 420
+ -GDP in 2020 is 2.4 times the GPD in 2019
+- Physical volime of volume: twice as many pizza and calzones
+- Why a diff? price increases
+
+# Calcualte Real DFP for 2020
+Real GDP values output in the current year using the prices from the base year (use 2019 as the base year)
+- Real GDP in 2019 is 175
+- Real GDP in 2020 is 350
+- Real GDP doubled between 2019 and 2020
+
+# Nominal GDP and Real GDP
+Nominal GDP values output in the current year using prices from the current year
+Real GDP values output in the current year using the prices from the base year
+Changes in nominal GDP can be due to: either
+Changes in real GDP can only be due to: quantity
+
+# Three uses of GDP Data
+Why is GDP useful to examine?
+1. Estimate living standards across time and nations
+2. Measure economic growth
+3. Determine whether an economy is experiencing a short-run expansion or recession
+
+# Real GDP and Economic Well-Being
+  - Real GDP is a flawed measure of well-being
+  - Omits illegal transactions, volunteer work, and household production
+  - does not value leisure
+  - doesn’t measure income inequality
+  - doesn’t take into account environmental quality
+  - GDP does not account for intangibles people value
+
+#Alternative Measures of Economic Well-Being
+- Other measures of well-being
+- Life expectancy
+- Education levels
+  - Access to healthcare
+  - Crime rates
+  - Environmental quality
+- Reality
