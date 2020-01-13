@@ -168,7 +168,7 @@ Why is GDP useful to examine?
   - doesn’t take into account environmental quality
   - GDP does not account for intangibles people value
 
-#Alternative Measures of Economic Well-Being
+# Alternative Measures of Economic Well-Being
 - Other measures of well-being
 - Life expectancy
 - Education levels
