@@ -10,6 +10,7 @@ Households <-- Income/Labor // Goods/Expenditure --> Firms
 - Production Value = Expendeture = Income
 
 Orcharida | Apples | Bananas | Shoes
+--- | --- | --- | ---
 Price | $0.25 | $0.50 | $20.00
 Quantity | 4 | 6 | 3
 GDP contribution | $1.00 | $3.00 | $60.00
@@ -53,7 +54,7 @@ Sum of value added in all stages of production = Gov't purchase + investments + 
 Company | Revenue | Cost of Purchaced Inputs | Value Added
 --- | --- | --- |---
 ABC Grain | 0.5 | 0.0 | 0.5
-General Flour | 1.2 | 0.5 0.7
+General Flour | 1.2 | 0.5 | 0.7
 Hot'n Fresh | 2.00 | 1.2 | 0.8
 Total |   |   | 2.0
 
