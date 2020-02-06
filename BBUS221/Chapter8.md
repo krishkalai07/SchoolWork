@@ -102,6 +102,84 @@ incrreased specialization and effiency based on comparative advanctage | Some do
 
 ## Q25 on canvas
 
-## Homework 3
+## Homework 3 / Quiz 3
 
+# Unemplyment
+- Bureau of Labor Stats estimates employment and unemployment monthly
+  - Employed
+  - Unemployed (no job in last 4 weeks
+  - Out of labor force (studens, retired, military, discouraged)
+- Labor force = employed + unemployed
+- Pop 16+ = labor force + out of labor force
+- unemplyemtnr rate = unemplyed / lkabor force
+- particpation rate labor force / 16+
 
+# Unemployemetn Issues
+- Duration of unemployment (len of unemployemtn spell)
+  - Long-term: out of work for 6+ months (chronically enempl.)
+- Discouraged workers would like to have a job but they have not looked for work in teh past 4 weeks
+  - coutned as out of labor force
+- Underemployed workers
+  - involunatyr part-time workers are people who like to work full-time but cannot find a full-time job
+  - overqualified wworkers for their job
+  - counted as emplyed
+
+## Q26 on canvas
+
+## Class ex 6 on canvas
+
+# Costs of unemployment
+- Economic costs
+  - Lost wages and prodictsion
+  Decrasde taxxes and inerasd transfers
+- Psychologiecal costs
+  - individual self-esteem
+  - family stress
+- Social costs
+  - potential increases in crimes and socaial problems
+
+# Three types of unemplyemnt
+- Natural
+  - Structural
+    - long-term, chronic unemployment in well-functioning economy (high costs)
+      - structual shifts in production create a long-term mismatch between workers and market needs
+      - Lack of skills, language barriers, or discrimination
+      - barriers to employment such as
+        - minimum wage
+        - unempliyment insurance
+        - efficiency wages
+        - unions
+  - Frictional 
+    - when workers are between jobs in a well functioning company
+      - short duration, low economic cost
+      - may increase economic efficiency
+ - Example:
+   - recent college grads
+   - spouse of a person who moves for a new job
+- unnatural
+  - **Cyclical**
+    - increase in unemployment during economic slow-downs
+      - usually short duration
+      - economic costs depends on length of cycle
+    - example
+      - due to economic slow-down and low demand, a company has to downsize
+
+# Structural barriesr to unemplyemnt
+- Labor union benefuts
+  - Support progressive labor legislation
+  - increase productivity
+  - promote democracy in workplace
+- Labor union costs
+  - higher costs for companies
+
+# Henry ford and the very generous $5-a-day wage
+- Henry Ford, founder of Ford Motor Compony
+  - Introucuced modern techniques of production
+  - built cars on assembly lines
+  - output: model T ford
+- 1914, Ford - the $5 workday
+  - Long lines of job seekers
+- Ford's efficiency wage was highly profitable for the firm
+  - Turnover fell
+  - Absenteeism fell
+  - Productivity rose
