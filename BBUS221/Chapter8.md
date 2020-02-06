@@ -111,10 +111,10 @@ incrreased specialization and effiency based on comparative advanctage | Some do
   - Out of labor force (studens, retired, military, discouraged)
 - Labor force = employed + unemployed
 - Pop 16+ = labor force + out of labor force
-- unemplyemtnr rate = unemplyed / lkabor force
-- particpation rate labor force / 16+
+- unemployment rate = unemployed / labor force
+- particpation rate = labor force / 16+
 
-# Unemployemetn Issues
+# Unemployment Issues
 - Duration of unemployment (len of unemployemtn spell)
   - Long-term: out of work for 6+ months (chronically enempl.)
 - Discouraged workers would like to have a job but they have not looked for work in teh past 4 weeks
@@ -153,9 +153,9 @@ incrreased specialization and effiency based on comparative advanctage | Some do
     - when workers are between jobs in a well functioning company
       - short duration, low economic cost
       - may increase economic efficiency
- - Example:
-   - recent college grads
-   - spouse of a person who moves for a new job
+    - Example:
+      - recent college grads
+      - spouse of a person who moves for a new job
 - unnatural
   - **Cyclical**
     - increase in unemployment during economic slow-downs
