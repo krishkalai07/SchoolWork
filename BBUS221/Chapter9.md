@@ -79,6 +79,15 @@ Total $6280 | Total $3250
     - Retirements
     - Purchase a home
     - Children's collegne attend
+  - Precautionary saving is for proteaction against setbacks
+    - Loss of job
+    - Medical emefgentcy
+  - Bequest saving is to leave an interitance
+    - Mainly higher income groups
 
-
-#For kit, continue at 20:18
+# National Savings
+Snet = Spublic + Sprivate = (Tnet-G) + (Y - Tnet - C) = Y - C - G
+    Y = income
+    C = consumtion
+    T = taxes
+    G = gov spending
