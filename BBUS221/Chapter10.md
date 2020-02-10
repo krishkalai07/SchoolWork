@@ -79,17 +79,17 @@
 - The money multiplier =
   - Amount of money the banking system generates with each dollar of reserves
 - The higher the reserve ratio
-  - The -- the money multiplier
-- Money supply created by banks =
+  - The smaller the money multiplier
+- Money supply created by banks = Origianl deposite * 1/R
 
 # Money Supply at christmans
 - Suppose the public hold $500 billion in cash and deposits at the banks $500 billion.  The reserve-deposit ratio is 0.20.
 - The banks use the $500 billion to create money:
-  - Money supply from banks =
-  - Total Money supply = currency + money supply from banks = 
+  - Money supply from banks = 500 * 1/0.2 = 2500
+  - Total Money supply = currency + money supply from banks = 3000
 - As Christmas approaches, consumers reduce bank deposits by $100 billion
   - Banks have $400 b in reserves; public holds $600 b cash
-  - Money supply =
+  - Money supply = 2600
 - Reducing bank deposits reduces the money supply
 
 # Bank runs and the money supply
@@ -105,8 +105,9 @@
 # The Quantity Theory of Money
 - Velocity: the number of times the average dollar bill changes hands in a given time period
 - The quantity equation
+  - M \* V = P \* Y
+  - Money Supppy
   - P = price of output (CPI or GDP deflator)
   - Y = quantity of output (real GDP)
-  - P \* Y = value of output (nominal GDP)
 - example:  In 2009, the CPI was 2, the real GDP was 300 and the money supply was $100 billion
   - So, velocity V = 
